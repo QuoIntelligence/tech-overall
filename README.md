@@ -1,2 +1,2 @@
-# ticket-system
-Public ticket system for reporting and tracking issues 
+# tech-overall
+General repo for defining initiatives and projects at company level for efforts that encompases mutiple teams and Train Releases   
